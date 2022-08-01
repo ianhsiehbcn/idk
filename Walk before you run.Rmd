@@ -2,7 +2,7 @@
 title: "Walk before you run"
 author: "Ian Hsieh"
 date: "2022-08-01"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
